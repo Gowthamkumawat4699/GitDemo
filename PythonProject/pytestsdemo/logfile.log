@@ -1,0 +1,42 @@
+2025-01-19 18:27:17,602 : INFO : test_logging : Information statement is executed
+2025-01-19 18:27:17,602 : WARNING : test_logging : A warning statement is executed
+2025-01-19 18:27:17,602 : ERROR : test_logging : A error statement is executed
+2025-01-19 18:27:17,603 : CRITICAL : test_logging : A critical statement is executed
+2025-01-19 18:31:21,938 : DEBUG : test_logging : A Debug statement is executed
+2025-01-19 18:31:21,939 : INFO : test_logging : Information statement is executed
+2025-01-19 18:31:21,939 : WARNING : test_logging : A warning statement is executed
+2025-01-19 18:31:21,939 : ERROR : test_logging : A error statement is executed
+2025-01-19 18:31:21,939 : CRITICAL : test_logging : A critical statement is executed
+2025-01-19 19:22:10,698 : DEBUG : pytestsdemo.BaseClassLogger : A Debug statement is executed
+2025-01-19 19:22:10,699 : INFO : pytestsdemo.BaseClassLogger : Information statement is executed
+2025-01-19 19:22:10,699 : WARNING : pytestsdemo.BaseClassLogger : A warning statement is executed
+2025-01-19 19:22:10,699 : ERROR : pytestsdemo.BaseClassLogger : A error statement is executed
+2025-01-19 19:22:10,699 : CRITICAL : pytestsdemo.BaseClassLogger : A critical statement is executed
+2025-01-19 19:22:10,699 : INFO : pytestsdemo.BaseClassLogger : Kumawat
+2025-01-19 19:23:30,059 : DEBUG : pytestsdemo.BaseClassLogger : A Debug statement is executed
+2025-01-19 19:23:30,059 : INFO : pytestsdemo.BaseClassLogger : Information statement is executed
+2025-01-19 19:23:30,059 : WARNING : pytestsdemo.BaseClassLogger : A warning statement is executed
+2025-01-19 19:23:30,059 : ERROR : pytestsdemo.BaseClassLogger : A error statement is executed
+2025-01-19 19:23:30,059 : CRITICAL : pytestsdemo.BaseClassLogger : A critical statement is executed
+2025-01-19 19:23:30,059 : INFO : pytestsdemo.BaseClassLogger : Kumawat
+2025-01-19 19:23:30,059 : INFO : pytestsdemo.BaseClassLogger : Gowtham
+2025-01-19 19:36:17,151 : DEBUG : pytestsdemo.BaseClassLogger : A Debug statement is executed
+2025-01-19 19:36:17,152 : INFO : pytestsdemo.BaseClassLogger : Information statement is executed
+2025-01-19 19:36:17,152 : WARNING : pytestsdemo.BaseClassLogger : A warning statement is executed
+2025-01-19 19:36:17,152 : ERROR : pytestsdemo.BaseClassLogger : A error statement is executed
+2025-01-19 19:36:17,152 : CRITICAL : pytestsdemo.BaseClassLogger : A critical statement is executed
+2025-01-19 19:36:17,152 : INFO : pytestsdemo.BaseClassLogger : Kumawat
+2025-01-19 19:36:17,152 : INFO : pytestsdemo.BaseClassLogger : Gowtham
+2025-01-19 19:40:57,398 : INFO : test_editProfile : Kumawat
+2025-01-19 19:40:57,399 : INFO : test_editProfile : Gowtham
+2025-01-19 19:44:38,469 : INFO : test_editProfile : Kumawat
+2025-01-19 19:44:38,469 : INFO : test_editProfile : Gowtham
+2025-01-19 19:51:24,567 : INFO : test_editProfile : Kumawat
+2025-01-19 19:51:24,567 : INFO : test_editProfile : Gowtham
+2025-01-19 19:56:44,057 : INFO : test_editProfile : Kumawat
+2025-01-19 19:56:44,057 : INFO : test_editProfile : Gowtham
+2025-01-19 19:56:44,072 : DEBUG : test_logging : A Debug statement is executed
+2025-01-19 19:56:44,072 : INFO : test_logging : Information statement is executed
+2025-01-19 19:56:44,072 : WARNING : test_logging : A warning statement is executed
+2025-01-19 19:56:44,072 : ERROR : test_logging : A error statement is executed
+2025-01-19 19:56:44,072 : CRITICAL : test_logging : A critical statement is executed

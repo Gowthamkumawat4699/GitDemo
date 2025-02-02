@@ -1,0 +1,13 @@
+Jenkin
+
+User name - Gowtham@4699
+Password - Gm@461999
+run command - java -jar jenkins.war     = java should be install in your machine and download jenkins.war file.
+ in the command line run this command only when the file path of jenkins.war was given.
+
+
+github command lines
+
+
+set username - git config --global user.name "Gowtham"
+set gmail - git config --global user.email "gowthamkumar4699@gmail.com"

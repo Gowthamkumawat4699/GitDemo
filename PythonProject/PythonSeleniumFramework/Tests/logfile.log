@@ -1,0 +1,313 @@
+2025-01-26 16:03:34,780 : INFO : test_e2etesting : Click on the shop link
+2025-01-26 16:03:37,397 : INFO : test_e2etesting : List of mobiles isiphone X
+2025-01-26 16:03:37,415 : INFO : test_e2etesting : List of mobiles isSamsung Note 8
+2025-01-26 16:03:37,415 : INFO : test_e2etesting : List of mobiles isNokia Edge
+2025-01-26 16:03:37,431 : INFO : test_e2etesting : List of mobiles isBlackberry
+2025-01-26 16:03:37,431 : INFO : test_e2etesting : Selected product is Blackberry
+2025-01-26 16:03:42,623 : INFO : test_e2etesting : Enter the text as Ind
+2025-01-26 16:03:50,610 : INFO : test_submitForm : Entered the first name as Rahul
+2025-01-26 16:03:50,753 : INFO : test_submitForm : Entered the last name as Shetty
+2025-01-26 16:03:50,921 : INFO : test_submitForm : Entered the email as Rahalshetty@gmail.com
+2025-01-26 16:03:51,006 : INFO : test_submitForm : Entered the password as Rahul@1234
+2025-01-26 16:03:51,054 : INFO : test_submitForm : selected gender as Male
+2025-01-26 16:03:51,372 : INFO : test_submitForm : Entered the first name as Anshika
+2025-01-26 16:03:51,372 : INFO : test_submitForm : Entered the first name as Anshika
+2025-01-26 16:03:51,441 : INFO : test_submitForm : Entered the last name as Shetty
+2025-01-26 16:03:51,441 : INFO : test_submitForm : Entered the last name as Shetty
+2025-01-26 16:03:51,520 : INFO : test_submitForm : Entered the email as AnshikaShetty@gmail.com
+2025-01-26 16:03:51,520 : INFO : test_submitForm : Entered the email as AnshikaShetty@gmail.com
+2025-01-26 16:03:51,570 : INFO : test_submitForm : Entered the password as Anshika123
+2025-01-26 16:03:51,570 : INFO : test_submitForm : Entered the password as Anshika123
+2025-01-26 16:03:51,624 : INFO : test_submitForm : selected gender as Female
+2025-01-26 16:03:51,624 : INFO : test_submitForm : selected gender as Female
+2025-01-26 16:09:33,115 : INFO : test_e2etesting : Click on the shop link
+2025-01-26 16:09:38,045 : INFO : test_e2etesting : List of mobiles isiphone X
+2025-01-26 16:09:38,070 : INFO : test_e2etesting : List of mobiles isSamsung Note 8
+2025-01-26 16:09:38,093 : INFO : test_e2etesting : List of mobiles isNokia Edge
+2025-01-26 16:09:38,114 : INFO : test_e2etesting : List of mobiles isBlackberry
+2025-01-26 16:09:38,114 : INFO : test_e2etesting : Selected product is Blackberry
+2025-01-26 16:09:43,365 : INFO : test_e2etesting : Enter the text as Ind
+2025-01-26 16:09:57,834 : INFO : test_submitForm : Entered the first name as Rahul
+2025-01-26 16:09:57,977 : INFO : test_submitForm : Entered the last name as Shetty
+2025-01-26 16:09:58,126 : INFO : test_submitForm : Entered the email as Rahalshetty@gmail.com
+2025-01-26 16:09:58,194 : INFO : test_submitForm : Entered the password as Rahul@1234
+2025-01-26 16:09:58,227 : INFO : test_submitForm : selected gender as Male
+2025-01-26 16:09:59,759 : INFO : test_submitForm : Entered the first name as Anshika
+2025-01-26 16:09:59,759 : INFO : test_submitForm : Entered the first name as Anshika
+2025-01-26 16:09:59,836 : INFO : test_submitForm : Entered the last name as Shetty
+2025-01-26 16:09:59,836 : INFO : test_submitForm : Entered the last name as Shetty
+2025-01-26 16:09:59,917 : INFO : test_submitForm : Entered the email as AnshikaShetty@gmail.com
+2025-01-26 16:09:59,917 : INFO : test_submitForm : Entered the email as AnshikaShetty@gmail.com
+2025-01-26 16:09:59,971 : INFO : test_submitForm : Entered the password as Anshika123
+2025-01-26 16:09:59,971 : INFO : test_submitForm : Entered the password as Anshika123
+2025-01-26 16:10:00,027 : INFO : test_submitForm : selected gender as Female
+2025-01-26 16:10:00,027 : INFO : test_submitForm : selected gender as Female
+2025-01-26 16:36:18,514 : INFO : test_e2etesting : Click on the shop link
+2025-01-26 16:36:24,640 : INFO : test_e2etesting : List of mobiles is iphone X
+2025-01-26 16:36:24,655 : INFO : test_e2etesting : List of mobiles is Samsung Note 8
+2025-01-26 16:36:24,670 : INFO : test_e2etesting : List of mobiles is Nokia Edge
+2025-01-26 16:36:24,685 : INFO : test_e2etesting : List of mobiles is Blackberry
+2025-01-26 16:36:24,685 : INFO : test_e2etesting : Selected product is Blackberry
+2025-01-26 16:36:29,899 : INFO : test_e2etesting : Enter the text as Ind
+2025-01-26 16:36:38,574 : INFO : test_submitForm : Entered the first name as Rahul
+2025-01-26 16:36:38,720 : INFO : test_submitForm : Entered the last name as Shetty
+2025-01-26 16:36:38,884 : INFO : test_submitForm : Entered the email as Rahalshetty@gmail.com
+2025-01-26 16:36:38,986 : INFO : test_submitForm : Entered the password as Rahul@1234
+2025-01-26 16:36:39,027 : INFO : test_submitForm : selected gender as Male
+2025-01-26 16:36:39,200 : INFO : test_submitForm : Entered the first name as Anshika
+2025-01-26 16:36:39,200 : INFO : test_submitForm : Entered the first name as Anshika
+2025-01-26 16:36:39,265 : INFO : test_submitForm : Entered the last name as Shetty
+2025-01-26 16:36:39,265 : INFO : test_submitForm : Entered the last name as Shetty
+2025-01-26 16:36:39,360 : INFO : test_submitForm : Entered the email as AnshikaShetty@gmail.com
+2025-01-26 16:36:39,360 : INFO : test_submitForm : Entered the email as AnshikaShetty@gmail.com
+2025-01-26 16:36:39,418 : INFO : test_submitForm : Entered the password as Anshika123
+2025-01-26 16:36:39,418 : INFO : test_submitForm : Entered the password as Anshika123
+2025-01-26 16:36:39,472 : INFO : test_submitForm : selected gender as Female
+2025-01-26 16:36:39,472 : INFO : test_submitForm : selected gender as Female
+2025-01-26 16:41:44,807 : INFO : test_e2etesting : Click on the shop link
+2025-01-26 16:41:46,027 : INFO : test_e2etesting : List of mobiles is iphone X
+2025-01-26 16:41:46,042 : INFO : test_e2etesting : List of mobiles is Samsung Note 8
+2025-01-26 16:41:46,061 : INFO : test_e2etesting : List of mobiles is Nokia Edge
+2025-01-26 16:41:46,074 : INFO : test_e2etesting : List of mobiles is Blackberry
+2025-01-26 16:41:46,074 : INFO : test_e2etesting : Selected product is Blackberry
+2025-01-26 16:41:51,395 : INFO : test_e2etesting : Enter the text as Ind
+2025-01-26 16:42:04,654 : INFO : test_submitForm : Entered the first name as Rahul
+2025-01-26 16:42:04,918 : INFO : test_submitForm : Entered the last name as Shetty
+2025-01-26 16:42:05,128 : INFO : test_submitForm : Entered the email as Rahalshetty@gmail.com
+2025-01-26 16:42:05,301 : INFO : test_submitForm : Entered the password as Rahul@1234
+2025-01-26 16:42:05,398 : INFO : test_submitForm : selected gender as Male
+2025-01-26 16:42:05,777 : INFO : test_submitForm : Entered the first name as Anshika
+2025-01-26 16:42:05,777 : INFO : test_submitForm : Entered the first name as Anshika
+2025-01-26 16:42:05,916 : INFO : test_submitForm : Entered the last name as Shetty
+2025-01-26 16:42:05,916 : INFO : test_submitForm : Entered the last name as Shetty
+2025-01-26 16:42:06,116 : INFO : test_submitForm : Entered the email as AnshikaShetty@gmail.com
+2025-01-26 16:42:06,116 : INFO : test_submitForm : Entered the email as AnshikaShetty@gmail.com
+2025-01-26 16:42:06,250 : INFO : test_submitForm : Entered the password as Anshika123
+2025-01-26 16:42:06,250 : INFO : test_submitForm : Entered the password as Anshika123
+2025-01-26 16:42:06,390 : INFO : test_submitForm : selected gender as Female
+2025-01-26 16:42:06,390 : INFO : test_submitForm : selected gender as Female
+2025-01-26 16:47:49,035 : INFO : test_e2etesting : Click on the shop link
+2025-01-26 16:47:50,537 : INFO : test_e2etesting : List of mobiles is iphone X
+2025-01-26 16:47:50,608 : INFO : test_e2etesting : List of mobiles is Samsung Note 8
+2025-01-26 16:47:50,675 : INFO : test_e2etesting : List of mobiles is Nokia Edge
+2025-01-26 16:47:50,718 : INFO : test_e2etesting : List of mobiles is Blackberry
+2025-01-26 16:47:50,718 : INFO : test_e2etesting : Selected product is Blackberry
+2025-01-26 16:47:56,584 : INFO : test_e2etesting : Enter the text as Ind
+2025-01-26 16:48:15,018 : INFO : test_submitForm : Entered the first name as Rahul
+2025-01-26 16:48:15,582 : INFO : test_submitForm : Entered the last name as Shetty
+2025-01-26 16:48:15,786 : INFO : test_submitForm : Entered the email as Rahalshetty@gmail.com
+2025-01-26 16:48:15,924 : INFO : test_submitForm : Entered the password as Rahul@1234
+2025-01-26 16:48:16,014 : INFO : test_submitForm : selected gender as Male
+2025-01-26 16:48:16,882 : INFO : test_submitForm : Entered the first name as Anshika
+2025-01-26 16:48:16,882 : INFO : test_submitForm : Entered the first name as Anshika
+2025-01-26 16:48:17,080 : INFO : test_submitForm : Entered the last name as Shetty
+2025-01-26 16:48:17,080 : INFO : test_submitForm : Entered the last name as Shetty
+2025-01-26 16:48:17,373 : INFO : test_submitForm : Entered the email as AnshikaShetty@gmail.com
+2025-01-26 16:48:17,373 : INFO : test_submitForm : Entered the email as AnshikaShetty@gmail.com
+2025-01-26 16:48:17,472 : INFO : test_submitForm : Entered the password as Anshika123
+2025-01-26 16:48:17,472 : INFO : test_submitForm : Entered the password as Anshika123
+2025-01-26 16:48:17,579 : INFO : test_submitForm : selected gender as Female
+2025-01-26 16:48:17,579 : INFO : test_submitForm : selected gender as Female
+2025-01-26 20:38:24,815 : INFO : test_e2etesting : Click on the shop link
+2025-01-26 20:38:25,816 : INFO : test_e2etesting : List of mobiles is iphone X
+2025-01-26 20:38:25,826 : INFO : test_e2etesting : List of mobiles is Samsung Note 8
+2025-01-26 20:38:25,857 : INFO : test_e2etesting : List of mobiles is Nokia Edge
+2025-01-26 20:38:25,871 : INFO : test_e2etesting : List of mobiles is Blackberry
+2025-01-26 20:38:25,871 : INFO : test_e2etesting : Selected product is Blackberry
+2025-01-26 20:38:31,113 : INFO : test_e2etesting : Enter the text as Ind
+2025-01-26 20:38:39,080 : INFO : test_submitForm : Entered the first name as Rahul
+2025-01-26 20:38:39,237 : INFO : test_submitForm : Entered the last name as Shetty
+2025-01-26 20:38:39,395 : INFO : test_submitForm : Entered the email as Rahalshetty@gmail.com
+2025-01-26 20:38:39,493 : INFO : test_submitForm : Entered the password as Rahul@1234
+2025-01-26 20:38:39,540 : INFO : test_submitForm : selected gender as Male
+2025-01-26 20:38:39,970 : INFO : test_submitForm : Entered the first name as Anshika
+2025-01-26 20:38:39,970 : INFO : test_submitForm : Entered the first name as Anshika
+2025-01-26 20:38:40,030 : INFO : test_submitForm : Entered the last name as Shetty
+2025-01-26 20:38:40,030 : INFO : test_submitForm : Entered the last name as Shetty
+2025-01-26 20:38:40,132 : INFO : test_submitForm : Entered the email as AnshikaShetty@gmail.com
+2025-01-26 20:38:40,132 : INFO : test_submitForm : Entered the email as AnshikaShetty@gmail.com
+2025-01-26 20:38:40,195 : INFO : test_submitForm : Entered the password as Anshika123
+2025-01-26 20:38:40,195 : INFO : test_submitForm : Entered the password as Anshika123
+2025-01-26 20:38:40,242 : INFO : test_submitForm : selected gender as Female
+2025-01-26 20:38:40,242 : INFO : test_submitForm : selected gender as Female
+2025-01-26 20:41:35,760 : INFO : test_e2etesting : Click on the shop link
+2025-01-26 20:41:38,084 : INFO : test_e2etesting : List of mobiles is iphone X
+2025-01-26 20:41:38,100 : INFO : test_e2etesting : List of mobiles is Samsung Note 8
+2025-01-26 20:41:38,115 : INFO : test_e2etesting : List of mobiles is Nokia Edge
+2025-01-26 20:41:38,131 : INFO : test_e2etesting : List of mobiles is Blackberry
+2025-01-26 20:41:38,131 : INFO : test_e2etesting : Selected product is Blackberry
+2025-01-26 20:41:43,841 : INFO : test_e2etesting : Enter the text as Ind
+2025-01-26 20:41:59,364 : INFO : test_submitForm : Entered the first name as Rahul
+2025-01-26 20:41:59,501 : INFO : test_submitForm : Entered the last name as Shetty
+2025-01-26 20:41:59,533 : INFO : test_submitForm : Entered the email as Rahalshetty@gmail.com
+2025-01-26 20:41:59,570 : INFO : test_submitForm : Entered the password as Rahul@1234
+2025-01-26 20:41:59,604 : INFO : test_submitForm : selected gender as Male
+2025-01-26 20:42:00,278 : INFO : test_submitForm : Entered the first name as Anshika
+2025-01-26 20:42:00,278 : INFO : test_submitForm : Entered the first name as Anshika
+2025-01-26 20:42:00,294 : INFO : test_submitForm : Entered the last name as Shetty
+2025-01-26 20:42:00,294 : INFO : test_submitForm : Entered the last name as Shetty
+2025-01-26 20:42:00,327 : INFO : test_submitForm : Entered the email as AnshikaShetty@gmail.com
+2025-01-26 20:42:00,327 : INFO : test_submitForm : Entered the email as AnshikaShetty@gmail.com
+2025-01-26 20:42:00,327 : INFO : test_submitForm : Entered the password as Anshika123
+2025-01-26 20:42:00,327 : INFO : test_submitForm : Entered the password as Anshika123
+2025-01-26 20:42:00,581 : INFO : test_submitForm : selected gender as Female
+2025-01-26 20:42:00,581 : INFO : test_submitForm : selected gender as Female
+2025-01-26 20:44:59,765 : INFO : test_e2etesting : Click on the shop link
+2025-01-26 20:45:00,718 : INFO : test_e2etesting : List of mobiles is iphone X
+2025-01-26 20:45:00,734 : INFO : test_e2etesting : List of mobiles is Samsung Note 8
+2025-01-26 20:45:00,749 : INFO : test_e2etesting : List of mobiles is Nokia Edge
+2025-01-26 20:45:00,749 : INFO : test_e2etesting : List of mobiles is Blackberry
+2025-01-26 20:45:00,749 : INFO : test_e2etesting : Selected product is Blackberry
+2025-01-26 20:45:06,015 : INFO : test_e2etesting : Enter the text as Ind
+2025-01-26 20:45:15,688 : INFO : test_submitForm : Entered the first name as Rahul
+2025-01-26 20:45:15,842 : INFO : test_submitForm : Entered the last name as Shetty
+2025-01-26 20:45:15,978 : INFO : test_submitForm : Entered the email as Rahalshetty@gmail.com
+2025-01-26 20:45:16,041 : INFO : test_submitForm : Entered the password as Rahul@1234
+2025-01-26 20:45:16,091 : INFO : test_submitForm : selected gender as Male
+2025-01-26 20:45:16,484 : INFO : test_submitForm : Entered the first name as Anshika
+2025-01-26 20:45:16,484 : INFO : test_submitForm : Entered the first name as Anshika
+2025-01-26 20:45:16,564 : INFO : test_submitForm : Entered the last name as Shetty
+2025-01-26 20:45:16,564 : INFO : test_submitForm : Entered the last name as Shetty
+2025-01-26 20:45:16,664 : INFO : test_submitForm : Entered the email as AnshikaShetty@gmail.com
+2025-01-26 20:45:16,664 : INFO : test_submitForm : Entered the email as AnshikaShetty@gmail.com
+2025-01-26 20:45:16,736 : INFO : test_submitForm : Entered the password as Anshika123
+2025-01-26 20:45:16,736 : INFO : test_submitForm : Entered the password as Anshika123
+2025-01-26 20:45:16,806 : INFO : test_submitForm : selected gender as Female
+2025-01-26 20:45:16,806 : INFO : test_submitForm : selected gender as Female
+2025-01-26 20:49:23,031 : INFO : test_e2etesting : Click on the shop link
+2025-01-26 20:49:24,949 : INFO : test_e2etesting : List of mobiles is iphone X
+2025-01-26 20:49:24,968 : INFO : test_e2etesting : List of mobiles is Samsung Note 8
+2025-01-26 20:49:24,968 : INFO : test_e2etesting : List of mobiles is Nokia Edge
+2025-01-26 20:49:24,982 : INFO : test_e2etesting : List of mobiles is Blackberry
+2025-01-26 20:49:24,982 : INFO : test_e2etesting : Selected product is Blackberry
+2025-01-26 20:49:30,180 : INFO : test_e2etesting : Enter the text as Ind
+2025-01-26 20:49:46,288 : INFO : test_submitForm : Entered the first name as Rahul
+2025-01-26 20:49:46,408 : INFO : test_submitForm : Entered the last name as Shetty
+2025-01-26 20:49:46,535 : INFO : test_submitForm : Entered the email as Rahalshetty@gmail.com
+2025-01-26 20:49:46,609 : INFO : test_submitForm : Entered the password as Rahul@1234
+2025-01-26 20:49:46,647 : INFO : test_submitForm : selected gender as Male
+2025-01-26 20:49:52,029 : INFO : test_submitForm : Entered the first name as Anshika
+2025-01-26 20:49:52,029 : INFO : test_submitForm : Entered the first name as Anshika
+2025-01-26 20:49:52,089 : INFO : test_submitForm : Entered the last name as Shetty
+2025-01-26 20:49:52,089 : INFO : test_submitForm : Entered the last name as Shetty
+2025-01-26 20:49:52,166 : INFO : test_submitForm : Entered the email as AnshikaShetty@gmail.com
+2025-01-26 20:49:52,166 : INFO : test_submitForm : Entered the email as AnshikaShetty@gmail.com
+2025-01-26 20:49:52,219 : INFO : test_submitForm : Entered the password as Anshika123
+2025-01-26 20:49:52,219 : INFO : test_submitForm : Entered the password as Anshika123
+2025-01-26 20:49:52,271 : INFO : test_submitForm : selected gender as Female
+2025-01-26 20:49:52,271 : INFO : test_submitForm : selected gender as Female
+2025-01-26 21:19:59,754 : INFO : test_e2etesting : Click on the shop link
+2025-01-26 21:20:03,399 : INFO : test_e2etesting : List of mobiles is iphone X
+2025-01-26 21:20:03,480 : INFO : test_e2etesting : List of mobiles is Samsung Note 8
+2025-01-26 21:20:03,556 : INFO : test_e2etesting : List of mobiles is Nokia Edge
+2025-01-26 21:20:03,628 : INFO : test_e2etesting : List of mobiles is Blackberry
+2025-01-26 21:20:03,628 : INFO : test_e2etesting : Selected product is Blackberry
+2025-01-26 21:20:09,508 : INFO : test_e2etesting : Enter the text as Ind
+2025-01-26 21:20:19,867 : INFO : test_submitForm : Entered the first name as Rahul
+2025-01-26 21:20:20,151 : INFO : test_submitForm : Entered the last name as Shetty
+2025-01-26 21:20:20,365 : INFO : test_submitForm : Entered the email as Rahalshetty@gmail.com
+2025-01-26 21:20:20,505 : INFO : test_submitForm : Entered the password as Rahul@1234
+2025-01-26 21:20:20,588 : INFO : test_submitForm : selected gender as Male
+2025-01-26 21:20:21,147 : INFO : test_submitForm : Entered the first name as Anshika
+2025-01-26 21:20:21,147 : INFO : test_submitForm : Entered the first name as Anshika
+2025-01-26 21:20:21,272 : INFO : test_submitForm : Entered the last name as Shetty
+2025-01-26 21:20:21,272 : INFO : test_submitForm : Entered the last name as Shetty
+2025-01-26 21:20:21,441 : INFO : test_submitForm : Entered the email as AnshikaShetty@gmail.com
+2025-01-26 21:20:21,441 : INFO : test_submitForm : Entered the email as AnshikaShetty@gmail.com
+2025-01-26 21:20:21,533 : INFO : test_submitForm : Entered the password as Anshika123
+2025-01-26 21:20:21,533 : INFO : test_submitForm : Entered the password as Anshika123
+2025-01-26 21:20:21,626 : INFO : test_submitForm : selected gender as Female
+2025-01-26 21:20:21,626 : INFO : test_submitForm : selected gender as Female
+2025-01-26 21:22:14,808 : INFO : test_e2etesting : Click on the shop link
+2025-01-26 21:22:16,936 : INFO : test_e2etesting : List of mobiles is iphone X
+2025-01-26 21:22:16,997 : INFO : test_e2etesting : List of mobiles is Samsung Note 8
+2025-01-26 21:22:17,058 : INFO : test_e2etesting : List of mobiles is Nokia Edge
+2025-01-26 21:22:17,118 : INFO : test_e2etesting : List of mobiles is Blackberry
+2025-01-26 21:22:17,118 : INFO : test_e2etesting : Selected product is Blackberry
+2025-01-26 21:22:23,069 : INFO : test_e2etesting : Enter the text as Ind
+2025-01-26 21:22:35,062 : INFO : test_submitForm : Entered the first name as Rahul
+2025-01-26 21:22:35,285 : INFO : test_submitForm : Entered the last name as Shetty
+2025-01-26 21:22:35,463 : INFO : test_submitForm : Entered the email as Rahalshetty@gmail.com
+2025-01-26 21:22:35,590 : INFO : test_submitForm : Entered the password as Rahul@1234
+2025-01-26 21:22:35,686 : INFO : test_submitForm : selected gender as Male
+2025-01-26 21:22:36,298 : INFO : test_submitForm : Entered the first name as Anshika
+2025-01-26 21:22:36,298 : INFO : test_submitForm : Entered the first name as Anshika
+2025-01-26 21:22:36,415 : INFO : test_submitForm : Entered the last name as Shetty
+2025-01-26 21:22:36,415 : INFO : test_submitForm : Entered the last name as Shetty
+2025-01-26 21:22:36,593 : INFO : test_submitForm : Entered the email as AnshikaShetty@gmail.com
+2025-01-26 21:22:36,593 : INFO : test_submitForm : Entered the email as AnshikaShetty@gmail.com
+2025-01-26 21:22:36,709 : INFO : test_submitForm : Entered the password as Anshika123
+2025-01-26 21:22:36,709 : INFO : test_submitForm : Entered the password as Anshika123
+2025-01-26 21:22:36,826 : INFO : test_submitForm : selected gender as Female
+2025-01-26 21:22:36,826 : INFO : test_submitForm : selected gender as Female
+2025-01-26 21:27:08,882 : INFO : test_e2etesting : Click on the shop link
+2025-01-26 21:27:10,110 : INFO : test_e2etesting : List of mobiles is iphone X
+2025-01-26 21:27:10,187 : INFO : test_e2etesting : List of mobiles is Samsung Note 8
+2025-01-26 21:27:10,245 : INFO : test_e2etesting : List of mobiles is Nokia Edge
+2025-01-26 21:27:10,298 : INFO : test_e2etesting : List of mobiles is Blackberry
+2025-01-26 21:27:10,298 : INFO : test_e2etesting : Selected product is Blackberry
+2025-01-26 21:27:16,067 : INFO : test_e2etesting : Enter the text as Ind
+2025-01-26 21:27:36,997 : INFO : test_submitForm : Entered the first name as Rahul
+2025-01-26 21:27:37,415 : INFO : test_submitForm : Entered the last name as Shetty
+2025-01-26 21:27:37,857 : INFO : test_submitForm : Entered the email as Rahalshetty@gmail.com
+2025-01-26 21:27:37,995 : INFO : test_submitForm : Entered the password as Rahul@1234
+2025-01-26 21:27:38,076 : INFO : test_submitForm : selected gender as Male
+2025-01-26 21:27:38,740 : INFO : test_submitForm : Entered the first name as Anshika
+2025-01-26 21:27:38,740 : INFO : test_submitForm : Entered the first name as Anshika
+2025-01-26 21:27:38,822 : INFO : test_submitForm : Entered the last name as Shetty
+2025-01-26 21:27:38,822 : INFO : test_submitForm : Entered the last name as Shetty
+2025-01-26 21:27:38,943 : INFO : test_submitForm : Entered the email as AnshikaShetty@gmail.com
+2025-01-26 21:27:38,943 : INFO : test_submitForm : Entered the email as AnshikaShetty@gmail.com
+2025-01-26 21:27:39,037 : INFO : test_submitForm : Entered the password as Anshika123
+2025-01-26 21:27:39,037 : INFO : test_submitForm : Entered the password as Anshika123
+2025-01-26 21:27:39,123 : INFO : test_submitForm : selected gender as Female
+2025-01-26 21:27:39,123 : INFO : test_submitForm : selected gender as Female
+2025-01-26 21:30:41,304 : INFO : test_e2etesting : Click on the shop link
+2025-01-26 21:30:43,080 : INFO : test_e2etesting : List of mobiles is iphone X
+2025-01-26 21:30:43,127 : INFO : test_e2etesting : List of mobiles is Samsung Note 8
+2025-01-26 21:30:43,158 : INFO : test_e2etesting : List of mobiles is Nokia Edge
+2025-01-26 21:30:43,221 : INFO : test_e2etesting : List of mobiles is Blackberry
+2025-01-26 21:30:43,221 : INFO : test_e2etesting : Selected product is Blackberry
+2025-01-26 21:30:49,089 : INFO : test_e2etesting : Enter the text as Ind
+2025-01-26 21:31:07,453 : INFO : test_submitForm : Entered the first name as Rahul
+2025-01-26 21:31:07,723 : INFO : test_submitForm : Entered the last name as Shetty
+2025-01-26 21:31:07,796 : INFO : test_submitForm : Entered the email as Rahalshetty@gmail.com
+2025-01-26 21:31:07,834 : INFO : test_submitForm : Entered the password as Rahul@1234
+2025-01-26 21:31:07,873 : INFO : test_submitForm : selected gender as Male
+2025-01-26 21:31:09,581 : INFO : test_submitForm : Entered the first name as Anshika
+2025-01-26 21:31:09,581 : INFO : test_submitForm : Entered the first name as Anshika
+2025-01-26 21:31:09,691 : INFO : test_submitForm : Entered the last name as Shetty
+2025-01-26 21:31:09,691 : INFO : test_submitForm : Entered the last name as Shetty
+2025-01-26 21:31:09,786 : INFO : test_submitForm : Entered the email as AnshikaShetty@gmail.com
+2025-01-26 21:31:09,786 : INFO : test_submitForm : Entered the email as AnshikaShetty@gmail.com
+2025-01-26 21:31:09,864 : INFO : test_submitForm : Entered the password as Anshika123
+2025-01-26 21:31:09,864 : INFO : test_submitForm : Entered the password as Anshika123
+2025-01-26 21:31:10,193 : INFO : test_submitForm : selected gender as Female
+2025-01-26 21:31:10,193 : INFO : test_submitForm : selected gender as Female
+2025-01-29 21:42:14,354 : INFO : test_submitForm : Entered the first name as Gowtham
+2025-01-29 21:42:14,551 : INFO : test_submitForm : Entered the last name as M
+2025-01-29 21:42:14,736 : INFO : test_submitForm : Entered the email as gk46188@gmail.com
+2025-01-29 21:42:14,869 : INFO : test_submitForm : Entered the password as ksdds
+2025-01-29 21:42:14,971 : INFO : test_submitForm : selected gender as Male
+2025-01-29 21:42:56,444 : INFO : test_submitForm : Entered the first name as Anu
+2025-01-29 21:42:56,580 : INFO : test_submitForm : Entered the last name as S
+2025-01-29 21:42:56,756 : INFO : test_submitForm : Entered the email as Anus@gmail.com
+2025-01-29 21:42:56,891 : INFO : test_submitForm : Entered the password as mknks
+2025-01-29 21:42:57,029 : INFO : test_submitForm : selected gender as Female
+2025-01-29 21:43:20,341 : INFO : test_submitForm : Entered the first name as Anu
+2025-01-29 21:43:20,631 : INFO : test_submitForm : Entered the last name as S
+2025-01-29 21:43:20,844 : INFO : test_submitForm : Entered the email as Anus@gmail.com
+2025-01-29 21:43:21,004 : INFO : test_submitForm : Entered the password as mknks
+2025-01-29 21:43:21,149 : INFO : test_submitForm : selected gender as Female
+2025-01-29 21:44:06,196 : INFO : test_submitForm : Entered the first name as Anu
+2025-01-29 21:44:06,325 : INFO : test_submitForm : Entered the last name as S
+2025-01-29 21:44:06,479 : INFO : test_submitForm : Entered the email as Anus@gmail.com
+2025-01-29 21:44:06,571 : INFO : test_submitForm : Entered the password as mknks
+2025-01-29 21:44:06,728 : INFO : test_submitForm : selected gender as Female
+2025-02-01 20:53:13,368 : INFO : test_e2etesting : Click on the shop link
+2025-02-01 20:53:14,441 : INFO : test_e2etesting : List of mobiles is iphone X
+2025-02-01 20:53:14,466 : INFO : test_e2etesting : List of mobiles is Samsung Note 8
+2025-02-01 20:53:14,487 : INFO : test_e2etesting : List of mobiles is Nokia Edge
+2025-02-01 20:53:14,505 : INFO : test_e2etesting : List of mobiles is Blackberry
+2025-02-01 20:53:14,507 : INFO : test_e2etesting : Selected product is Blackberry
+2025-02-01 20:53:19,851 : INFO : test_e2etesting : Enter the text as Ind
