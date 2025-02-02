@@ -10,5 +10,6 @@ def test_secondprogram() :
 @pytest.mark.regression
 def test_creditcard() :
     print("I have credit card in the ICICI bank")
+    print("free credit card offer there is no joining fees or annual fees")
 
 
