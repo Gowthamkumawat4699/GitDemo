@@ -37,6 +37,7 @@ def test_add():
 @pytest.mark.regression
 def test_creditcard():
     print("I have credit card in the HDFC bank")
+    print("Get the free credit card from this link if you don't have")
 
 #command + output - run all test file
 #py.test -v -s
